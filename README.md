@@ -1,5 +1,6 @@
 # Website-EC2-RDS
 How to use EC2 and RDS to build website with database  
+You can watch the Youtube:https://youtu.be/94bdn1mFwrs  
 	1.You need to create a instance in EC2  
 	2.Intall LAMP on EC2  
 	3.Create a Database in RDS  
